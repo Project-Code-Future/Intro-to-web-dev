@@ -18,3 +18,4 @@
 
 ## Before you code...
 Explain what HTML is used for - creating websites - and it is built on "tags" for headings, paragraphs, etc.
+Let the students know they can ignore the head tag and everything inside it because it will not affect what they see in the browser.
