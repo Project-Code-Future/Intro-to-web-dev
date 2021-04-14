@@ -1,2 +1,2 @@
 ## In this part...
-You will add HTML images and links to websites
+You will learn about buttons, div tags, and the ID attribute

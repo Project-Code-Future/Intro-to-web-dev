@@ -10,38 +10,28 @@
   </head>
 
   <body>
-    <!-- Change the heading -->
     <h1>Hi! My name is Code Future and this is my profile</h1>
 
-    <!-- Show how to use img tag to show picture of their favorite animal, etc. (include 3) -->
-    <!-- Explain that html tags can take up multiple lines -->
-    <h2>Favorite animal</h2>
-    <img 
-      src="https://cdn.vox-cdn.com/thumbor/6oEPJ9s5H9rzubYWS-LKBWhNE9k=/0x0:3000x2225/1200x800/filters:focal(1082x339:1562x819)/cdn.vox-cdn.com/uploads/chorus_image/image/66609943/GettyImages_137497593.0.jpg"
-      width=500 
-      height=400
-      alt="Fav animal"
-    />
-    <h2>Favorite ice cream flavor</h2>
-    <img 
-      src="https://www.bakedbyanintrovert.com/wp-content/uploads/2020/07/Chocolate-Chip-Cookie-Dough-Ice-Cream-Recipe-Image-720x720.jpg"
-      width=500 
-      height=400
-      alt="Fav ice cream"
-    />
-    <h2>My school</h2>
-    <!-- Show width and height can be changed and also removed -->
-    <img 
-      src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1611170352/d125org/atb9pgpjaj81u79veigc/stevensonSunrise.jpg"
-      alt="My school"
-    />
-
-    <!-- Explain anchor tags (links)-->
-    <!-- Have students create a link to their school's website or any appropriate alternative -->
-    <div>
-      <a href="https://code-future.web.app/">Click me!</a>
+    <!-- Explain div tags to be box's that hold elements inside -->
+    <!-- Mention style attribute as a way to style element, but no need to dicsuss CSS yet -->
+    <div style="border: 1px solid blue;">
+      <p>My first div</p>
     </div>
 
-    <!-- Give 5 minutes for students to play around with images and links to different websites -->
+    <!-- Showcase buttons -->
+    <!-- Add the onclick function from the ReadMe -->
+    <button onclick="document.getElementById('myID').innerText = 'My button was clicked!'" id="this">Click me!</button>
+    <!-- Point out onclick will not do anything yet because it is looking for an element with id 'myID' -->
+
+
+    <!-- Explain ID's as a way to name HTML elements so they can be selected in code -->
+    <div style="border: 1px solid red;">
+      <p id="myID">My second div</p>
+    </div>
+    <!-- Now when they click the button, it will change the text inside this div -->
+    <!-- Have them change the ID inside the p tag and show the onclick function won't work anymore -->
+    <!-- Then change ID inside onclick function to match the new one inside the p tag, onclick will work again -->
+    
+    <!-- Give 10 minutes for students to play around with the divs, add new buttons, and change ID's -->
   </body>
 </html>
