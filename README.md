@@ -24,7 +24,7 @@ Let the students know they can ignore the head tag and everything inside it beca
 1. Copy in the base template provided above
 2. Open the index.html file
 3. Explain what is discussed in the first lines of comments about the body tag and browsers
-4. The next chunk of comments describes a line of code (the <h1> tag), so copy in that line of code
+4. The next chunk of comments describes a line of code (the h1 tag), so copy in that line of code
 5. Copy in the next block of code and explain using the points in the second comment
 6. Copy in the third block of code and explain it with the third comment, etc.
 7. Keep going until you've completed all the comment + block pairs
