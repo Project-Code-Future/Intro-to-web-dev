@@ -5,11 +5,11 @@ An introduction to how HTML works and building your first website
 1. Copy in the base template provided at the bottom
 2. Open this GitHub repo's index.html file
 3. Read the first lines of comments (about body tags and browsers)
-    a. Treat this like a script, but you definitely don't need to follow word for word
+    - Treat this like a script, but you definitely don't need to follow word for word
 4. Read the next few comments and paste in the code they refer to, in this case the h1 tag
 5. Copy in the next block of code and explain using the points in the chunk of comments
 6. Keep going until you've completed all the comment + block pairs
-    a. Please add your own thoughts and clarifications as you go along :)
+    - Please add your own thoughts and clarifications as you go along :)
 7. Answer questions along the way, save time at the end to clarify anything
 8. When you're done with Part 1, move on to Part 2 by switching branches. Here's how to do that in GitHub:
     (https://i.ibb.co/7RZ143M/Branch-Example.png)
