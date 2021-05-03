@@ -10,28 +10,45 @@
   </head>
 
   <body>
-    <h1>Hi! My name is Code Future and this is my profile</h1>
-
-    <!-- Explain div tags to be box's that hold elements inside -->
-    <!-- Mention style attribute as a way to style element, but no need to dicsuss CSS yet -->
+    <!-- Div tags act as "boxes" that hold HTML inside of them -->
+    <!-- Div tags are harder to understand becuase you can't see them naturally -->
+    <div>
+      <p>My first div</p>
+    </div>
+    <!-- CSS - "Cascading Style Sheets" - is how you style your website -->
+    <!-- You usually put CSS in a separate file, it is kind of a separate lanuage,
+         but it can be written inside of HTML -->
+    <!-- Let's add CSS inside our previous div with the style attribute-->
     <div style="border: 1px solid blue;">
       <p>My first div</p>
     </div>
+    <!-- This creates a border of 1 pixel width, solid filling, and blue color. Now you can see the div! -->
 
-    <!-- Showcase buttons -->
-    <!-- Add the onclick function from the ReadMe -->
+    <!-- Let's add CSS to other elements, particularly h1 -->
+    <h1>This is a normal heading</h1>
+    <h1 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">This is a normal heading with a new font</h1>
+    <h1 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: green;">
+      Now I'm green!
+    </h1>
+
+    <!-- Button tags create buttons in HTML which can be clicked -->
+    <!-- Any HTML element can technically be clicked, but buttons are the best -->
+    <button></button>
+
+    <!-- The onlick attribute is how you control what the button does,
+         it takes a JavaScript function -->
+    <!-- Simply paste in the onclick attribute provided in the README.md file -->
     <button onclick="document.getElementById('myID').innerText = 'My button was clicked!'" id="this">Click me!</button>
-    <!-- Point out onclick will not do anything yet because it is looking for an element with id 'myID' -->
+    <!-- Click the button, notice onclick will not do anything...yet -->
 
-
-    <!-- Explain ID's as a way to name HTML elements so they can be selected in code -->
+    <!-- onclick is looking for an element with id: "myId". -->
+    <!-- ID's are a way to name HTML elements so they can be selected in code -->
+    <!-- Let's create a p that has an id attribute of "myid" and we'll put it inside another div -->
     <div style="border: 1px solid red;">
       <p id="myID">My second div</p>
     </div>
     <!-- Now when they click the button, it will change the text inside this div -->
-    <!-- Have them change the ID inside the p tag and show the onclick function won't work anymore -->
-    <!-- Then change ID inside onclick function to match the new one inside the p tag, onclick will work again -->
     
-    <!-- Give 10 minutes for students to play around with the divs, add new buttons, and change ID's -->
+    <!-- Give 10 minutes for students to play around with the divs, add new buttons, and change id selectors -->
   </body>
 </html>
