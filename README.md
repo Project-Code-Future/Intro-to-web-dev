@@ -17,6 +17,7 @@ You should follow along our code through GitHub. But, you will be teachingt the 
 If you are unfamiliar with GitHub, you are currently in the "final" branch which contains all of the code compiled in this lesson. To switch branches, click on the dropdown menu labelled "final" to the left just above all of the files. Follow the instructions you see in Part 1 to begin the lesson.
 
 ## Final Product
-If you're curious, here is what you will be building with your students. It's fairly simple, but we cover a lot of important ground along the way. :gem:
+If you're curious, here is what you will be building with your students. It's fairly simple, but we cover a lot of important ground along the way.:gem:
+
 ![First half](https://i.ibb.co/tMpHvfs/Screen-Shot-2021-05-07-at-12-07-48-AM.png)
 ![Second half](https://i.ibb.co/pb7CmrY/Screen-Shot-2021-05-07-at-12-08-30-AM.png)
