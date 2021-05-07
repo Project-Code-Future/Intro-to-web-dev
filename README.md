@@ -2,7 +2,7 @@
 :wave: Welcome to Code Future's intro to web dev workshop! This lesson is organized into :three: parts meant to highlight the main features of HTML. The goal is to showcase how a markup language can be used to create simple display content on the web. Follow along the comments on each part, they will guide you through teaching the lesson. :smile:
 
 ## Get setup with repl
-You should follow along our code through GitHub. But, you will be teachingt the lesson through repl because it provides a simpler interface for both you and the student to write and run HTML. Here's how to get setup and have the students follow along:
+You should follow along our code through GitHub. But, you will be teaching the lesson through repl because it provides a simpler interface for both you and the student to write and run HTML. Here's how to get setup and have the students follow along:
 1. Go to https://replit.com/ **in a separate window**
     - Screenshare your repl window through Zoom for the students to follow along. It is important your GitHub and repl are in two separate windows so only the repl is screenshared.
 2. Sign in to repl with your GitHub account. Students, who most likely do not have a GitHub, can use their Google account to signup. If they do not have a Google account, they may use their parent's.
