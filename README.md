@@ -12,7 +12,7 @@ An introduction to how HTML works and building your first website
     - Please add your own thoughts and clarifications as you go along :)
 7. Answer questions along the way, save time at the end to clarify anything
 8. When you're done with Part 1, move on to Part 2 by switching branches. Here's how to do that in GitHub:
-    (https://i.ibb.co/7RZ143M/Branch-Example.png)
+![Switch branches](https://i.ibb.co/7RZ143M/Branch-Example.png)
 
 ### After you paste in the template...
 This is the first lesson, so provide an introduction! Explain what HTML is used for - creating websites - and it is built on "tags" for headings, paragraphs, etc. Let the students know they can ignore the head tag and everything inside it because it will not affect what they see in the browser.
